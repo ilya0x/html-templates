@@ -49,6 +49,8 @@ dynamic pages
 
 > These notes are updated on regular basis
 
+<!--TODO: Table of Contents -->
+
 <br>
 
 ### `<meta ...>` tags
