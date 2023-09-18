@@ -11,7 +11,7 @@
 
 <br>
 
-## <img src="./images/template-20.png" alt="Flask"> Templates
+## <img src="./images/template-20.png" alt="template"> Templates
 
 <b>[Basic](generic/index-basic.html)</b> - ready for use in any project requiring
 simple HTML needs. Includes inline notes and TODOs.
