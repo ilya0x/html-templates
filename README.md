@@ -6,12 +6,13 @@
 > All HTML files used in Flask and Django frameworks are included in their
 > template folders:
 >
-> - <img src="./images/flask-full-30.png" alt="Flask">
-> - <img src="./images/django-full-30.png" alt="Django">
-
+> - <a href="https://github.com/ilya0x/python-templates/tree/main/flask"><img
+>   src="./images/flask-full-30.png" alt="Flask"></a>
+> - <a href="https://github.com/ilya0x/python-templates/tree/main/django"><img
+>   src="./images/django-full-30.png" alt="Django"></a>
 <br>
 
-## <img src="./images/template-20.png" alt="Flask"> Templates
+## <img src="./images/template-20.png" alt="template"> Templates
 
 <b>[Basic](generic/index-basic.html)</b> - ready for use in any project requiring
 simple HTML needs. Includes inline notes and TODOs.
