@@ -1,3 +1,8 @@
 {
-    "editor.acceptSuggestionOnEnter": "on"
+    "editor.acceptSuggestionOnEnter": "on",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#2B3005",
+        "titleBar.activeBackground": "#3C4407",
+        "titleBar.activeForeground": "#F9FCE2"
+    }
 }
