@@ -1,7 +1,8 @@
 # <img src="./images/html5-30.png" alt="Flask"> HTML
 
-- basic template with inline notes for use with any project.
-- complete template with examples of most useful HTML elements and inline notes
+HTML is a markup language used to structure web content with tags and elements.<br>
+
+<br>
 
 > All HTML files used in Flask and Django frameworks are included in their
 > template folders:
@@ -10,6 +11,7 @@
 >   src="./images/flask-full-30.png" alt="Flask"></a>
 > - <a href="https://github.com/ilya0x/python-templates/tree/main/django"><img
 >   src="./images/django-full-30.png" alt="Django"></a>
+
 <br>
 
 ## <img src="./images/template-20.png" alt="template"> Templates
